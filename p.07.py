@@ -11,4 +11,7 @@ else:
  
 print("The largest number is",largest)
 output:
-The largest number is: 25
+Enter first number: 2
+Enter second number: 4
+Enter third number: 6
+The largest number is 6
