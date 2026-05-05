@@ -28,3 +28,16 @@ print("\nNew Dictionary is :", dict2)
 
 dict1.clear()
 print("\nUpdated Dictionary is :", dict1)
+output:
+
+
+Updated Dictionary is : {'StdNo': '532', 'StuName': 'harshith', 'StuAge': 21, 'StuCity': 'Hyderabad', 'Phno': 85457854}
+
+Updated Dictionary is : {'StdNo': '532', 'StuName': 'harshith', 'StuAge': 21, 'StuCity': 'Hyderabad', 'Phno': 85457854}
+
+Updated Dictionary is : {'StdNo': '532', 'StuName': 'harshith', 'StuCity': 'Hyderabad', 'Phno': 85457854}
+Length of Dictionary is : 4
+
+New Dictionary is : {'StdNo': '532', 'StuName': 'harshith', 'StuCity': 'Hyderabad', 'Phno': 85457854}
+
+Updated Dictionary is : {}
