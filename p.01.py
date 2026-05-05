@@ -4,3 +4,7 @@ c=2.05j
 print("a is Type of",type(a))
 print("b is Type of",type(b))
 print("c is Type of",type(c))
+output:
+a is Type of <class 'int'>
+b is Type of <class 'float'>
+c is Type of <class 'complex'>
